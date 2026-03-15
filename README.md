@@ -1,5 +1,4 @@
 <p align="center">
-<img src="https://img.shields.io/badge/coverage-50%25-green?style=for-the-badge" alt="coverage">
 <a href="https://github.com/veritai-news/veritai-api/wiki/Local-Setup"><img src="https://img.shields.io/badge/DOCUMENTATION-READ-slategray?style=for-the-badge" alt="Documentation: Read"></a>
 <a href="LICENSE"><img src="https://img.shields.io/badge/TRIAL_LICENSE-VIEW_TERMS-blue?style=for-the-badge" alt="Trial License: View Terms"></a>
 <a href="https://github.com/sponsors/veritai-news"><img src="https://img.shields.io/badge/LIFETIME_LICENSE-PURCHASE-purple?style=for-the-badge" alt="Lifetime License: Purchase"></a>
@@ -7,7 +6,7 @@
 
 ---
 
-Part of the **[veritai News Stack](https://github.com/veritai-news)**.
+Part of the **[veritAI News](https://github.com/veritai-news)**.
 
 The veritai API is a high-performance backend gateway built with **Dart Frog**. It serves as the secure data engine for both the Mobile Client and the Web Dashboard.
 
